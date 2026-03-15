@@ -953,7 +953,7 @@
   <joint name="lidar_to_laser" type="fixed">
     <parent link="LiDAR_v1_1"/>
     <child link="laser"/>
-    <origin xyz="0 0 0.0285" rpy="0 0 3.14159"/>
+    <origin xyz="0 0 0.0285" rpy="0 0 0"/>
   </joint>
 </robot>
 
